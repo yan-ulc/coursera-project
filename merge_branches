@@ -1,0 +1,7 @@
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+PS D:\project\coursera2\coursera-project> git merge bug-fix-typo
+Updating 14f44eb..a241cb9
+Fast-forward
+ README.md | 7 ++++---
+ 1 file changed, 4 insertions(+), 3 deletions(-)
