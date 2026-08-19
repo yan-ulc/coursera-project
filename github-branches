@@ -1,0 +1,5 @@
+PS D:\project\coursera-project> git branch -a
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo
+  remotes/origin/main
